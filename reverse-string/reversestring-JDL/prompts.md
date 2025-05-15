@@ -1,3 +1,5 @@
+ChatGPT 4o
+
 Crea una página web con lógica en javascript que invierta el orden de una cadena de texto.
 Archivos independientes para el html y para el JS
 
